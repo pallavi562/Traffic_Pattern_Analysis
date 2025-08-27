@@ -1,0 +1,6 @@
+Timestamp,Location,Vehicle_Type,Vehicle_Count,Latitude,Longitude
+2025-08-26 08:00:00,Main Street,Car,15,26.8467,80.9462
+2025-08-26 08:00:00,Main Street,Bike,10,26.8467,80.9462
+2025-08-26 09:00:00,Market Road,Bus,5,26.8470,80.9470
+2025-08-26 09:00:00,Market Road,Car,12,26.8470,80.9470
+2025-08-26 10:00:00,River Road,Truck,7,26.8480,80.9480
